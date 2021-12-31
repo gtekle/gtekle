@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tekle Gebreyohannes
-- 👀 I’m interested in Java Spring Boot, ReactJS, NodeJS, Flutter, React Native, Android
-- 🌱 I’m currently learning ReactJS and NodeJS.
+- 👀 I’m interested in Java, Spring, ReactJS, NodeJS, Epress, Flutter and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: teklegy@gmail.com
 <!---
