@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Tekle Gebreyohannes
+🏁  I am open for new job opportunities.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtekle&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtekle&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
