@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Tekle!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtekle&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtekle&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+      
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtekle&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtekle&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 # Technologies
 ## Back-End
