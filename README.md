@@ -56,7 +56,7 @@
  ## 💞️ I’m looking to collaborate on:  -->
 
  ## 📫 Contact 
-   ![Gmail](https://img.shields.io/badge/teklegy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Skype](https://img.shields.io/badge/tgebreyohannes-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)![Tekle Gebreyohannes Kidanemariam](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)![Zoom](https://img.shields.io/badge/gtekle-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+   ![Gmail](https://img.shields.io/badge/teklegy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Skype](https://img.shields.io/badge/tgebreyohannes-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)![[Tekle Gebreyohannes Kidanemariam](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gtekle/)![Zoom](https://img.shields.io/badge/gtekle-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 <!---
 gtekle/gtekle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
